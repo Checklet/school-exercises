@@ -1,8 +1,8 @@
-package exercise4;
+package general.exercise4;
 
 public class Program {
     public static void main(String[] args) {
-        String[] texts = new String[] { "Albert", "Benedict", "Charlotte", "Darius" };
+        String[] texts = new String[]{"Albert", "Benedict", "Charlotte", "Darius"};
 
         for (int current = 0; current < texts.length; current++) {
             String name = texts[current];

@@ -1,8 +1,8 @@
-package exercise3;
+package general.exercise3;
 
 public class Program {
     public static void main(String[] args) {
-        int[] nums = new int[] {3, 7, 10, 4, 6};
+        int[] nums = new int[]{3, 7, 10, 4, 6};
 
         int min = 10;
         int max = 0;
