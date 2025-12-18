@@ -1,4 +1,4 @@
-package simple.exercise3;
+package simple.exercise03;
 
 public class Program {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package simple.exercise1;
+package simple.exercise02;
 
 public class Program {
     public static void main(String[] args) {
@@ -8,5 +8,6 @@ public class Program {
         System.out.printf("%d + %d = %d\n", a, b, a + b);
         System.out.printf("%d - %d = %d\n", a, b, a - b);
         System.out.printf("%d * %d = %d\n", a, b, a * b);
+        System.out.printf("%d / %d = %d R %d\n", a, b, a / b, a % b);
     }
 }
